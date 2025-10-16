@@ -6,7 +6,7 @@
 <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50px" height="50px"> About Me:</h2>
 
 - 🎓 Studying **Software Engineering (CO-OP)** at the *University of Ottawa*  
-- ♟️ Currently building a **Chess AI Trainer** integrating my own C++ engine & Stockfish  
+- ♟️ Building a **Chess AI Trainer** integrating my own C++ engine & Stockfish  
 - 🧠 Passionate about **AI copilots**, **WebAssembly**, and **system design**  
 - 💻 Working with **TypeScript**, **React**, **Supabase**, **C++17**, and **Python**  
 - 🚀 Always open to collaborate on ambitious AI and full-stack projects  
@@ -47,14 +47,9 @@
 
 ## 📊 GitHub Stats
 
-[![Saad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=saadmoumine&show_icons=true&theme=radical)](https://github.com/saadmoumine)  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=saadmoumine&theme=nightowl)](https://git.io/streak-stats)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadmoumine&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saadmoumine&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+[![Saad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=samoumine&show_icons=true&theme=radical)](https://github.com/samoumine)  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=samoumine&theme=nightowl)](https://git.io/streak-stats)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samoumine&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
