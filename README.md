@@ -47,9 +47,12 @@
 
 ## 📊 GitHub Stats
 
-[![Saad’s GitHub stats](https://github-readme-stats.vercel.app/api?username=samoumine&show_icons=true&theme=radical)](https://github.com/samoumine)  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=samoumine&theme=nightowl)](https://git.io/streak-stats)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samoumine&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=samoumine&theme=nightowl)](https://git.io/streak-stats)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samoumine&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samoumine&theme=react-dark&custom_title=Contributions%20in%202025)
 
 ---
 
